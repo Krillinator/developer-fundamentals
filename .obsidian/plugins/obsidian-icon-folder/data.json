@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiKey",
+      "LiTerminal",
+      "LiImage",
+      "LiGitBranch",
+      "LiFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Terminal, Git & Github/Pull Request": "LiFolder",
+  "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas": "LiImage",
+  "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md": "LiGitPullRequest",
+  "Terminal, Git & Github/Branching": "LiFolder",
+  "Terminal, Git & Github/Branching/Branches.md": "LiGitBranch",
+  "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas": "LiImage",
+  "Terminal, Git & Github/Terminal - Basics": "LiFolder",
+  "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md": "LiKey",
+  "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md": "LiTerminal",
+  "Terminal, Git & Github/Terminal - Basics/Terminal - Flow Diagram.canvas": "LiImage"
+}

@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "0ca943d27079aef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b729c513f8dc9072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97d152e1140114ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet - Pull Requests"
+            }
+          },
+          {
+            "id": "62f75cdded01a382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminal - Workflow"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "259b851b25edd5de",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2eb1334c65939d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e154403cc465a60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfceeaf0902e0036",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff7779ddc69c1837",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4d15ba49c7b2cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "642e172c41cea711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3a754ee647e67b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Terminal - Workflow"
+            }
+          },
+          {
+            "id": "89f4f048d5c9b7fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Terminal - Workflow"
+            }
+          },
+          {
+            "id": "3e100c915a22546d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79aafd1674fffce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Terminal - Workflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "62f75cdded01a382",
+  "lastOpenFiles": [
+    "Terminal, Git & Github/Terminal - Basics/Terminal - Flow Diagram.canvas",
+    "resources/Code Example - part 1.png",
+    "resources/Code Example - part 2.png",
+    "resources/Github Account - Circle.png",
+    "resources/Terminal - Git Branch - Flow Diagram.png",
+    "resources/Terminal - Navigate - Flow Diagram.png",
+    "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+    "resources/Terminal - Windows os png.png",
+    "resources/Pasted image 20250911131919.png",
+    "resources/Terminal - Linux os png.png",
+    "resources/Pasted image 20250911131803.png",
+    "resources/Terminal - Sudo info png.png",
+    "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md",
+    "Terminal, Git & Github/Branching/Branches.md",
+    "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
+    "Terminal, Git & Github/Terminal - Basics",
+    "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas",
+    "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
+    "Terminal, Git & Github/Branching",
+    "Terminal, Git & Github",
+    "resources",
+    "Welcome.md",
+    "Terminal, Git & Github/Pull Request"
+  ]
+}
