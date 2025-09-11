@@ -59,3 +59,6 @@ Built in **Obsidian**, version-handled with Git.
 
 MIT — free to use and adapt for your own learning.
 
+### 📚 Readme powered by A.I
+
+This readme was generated using Chat GPT - Thank you GPT :)
