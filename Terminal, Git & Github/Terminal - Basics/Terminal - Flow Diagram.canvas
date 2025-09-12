@@ -36,29 +36,6 @@
 			"color":"4"
 		},
 		{
-			"id":"dd88d5f3d5407e4c",
-			"type":"text",
-			"text":"\n``` bash\nCTRL + ALT + T",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-38,
-			"y":130,
-			"width":260,
-			"height":120,
-			"color":"3"
-		},
-		{
-			"id":"8e7ab829d2525732",
-			"type":"text",
-			"text":" `Win + R`\n\nOr: `Win + X` → choose **Windows Terminal** (or PowerShell)",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-38,
-			"y":378,
-			"width":260,
-			"height":120,
-			"color":"5"
-		},
-		{"id":"fbe1b413d195abd0","type":"file","file":"resources/Terminal - Windows os png.png","x":-700,"y":370,"width":400,"height":136,"color":"5"},
-		{
 			"id":"3215f7870b5030c4",
 			"type":"text",
 			"text":"```bash \ndir",
@@ -99,7 +76,30 @@
 			"y":160,
 			"width":260,
 			"height":60
-		}
+		},
+		{
+			"id":"dd88d5f3d5407e4c",
+			"type":"text",
+			"text":"\n``` bash\nCTRL + ALT + T",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-38,
+			"y":130,
+			"width":260,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"8e7ab829d2525732",
+			"type":"text",
+			"text":" `Win + R`\n\nOr: `Win + X` → choose **Windows Terminal** (or PowerShell)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-38,
+			"y":378,
+			"width":260,
+			"height":120,
+			"color":"5"
+		},
+		{"id":"fbe1b413d195abd0","type":"file","file":"resources/Terminal - Windows os png.png","x":-700,"y":370,"width":400,"height":136,"color":"5"}
 	],
 	"edges":[
 		{

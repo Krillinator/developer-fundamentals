@@ -49,10 +49,13 @@ Built in **Obsidian**, version-handled with Git.
 
 ## 🌱 Roadmap
 
-* [ ] Expand **Terminal tutorials**
+* [x] Expand **Terminal tutorials**
 * [ ] Add **Git workflows & examples**
 * [ ] Introduce **programming fundamentals**
-
+* [x] Add **Common Git Errors**
+* [x] Add **Github Projects**
+* [ ] Showcase **Using Canvas Images in this README.md**
+* [ ] Add **Git Merging**
 ---
 
 ## 📖 License

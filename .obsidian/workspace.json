@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal - Workflow"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "file": "Developer Fundamentals.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terminal - Workflow"
+              "title": "Backlinks for Developer Fundamentals"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "file": "Developer Fundamentals.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terminal - Workflow"
+              "title": "Outgoing links from Developer Fundamentals"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
+                "file": "Developer Fundamentals.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminal - Workflow"
+              "title": "Outline of Developer Fundamentals"
             }
           }
         ]
@@ -187,24 +187,39 @@
   },
   "active": "62f75cdded01a382",
   "lastOpenFiles": [
+    "TODO.md",
+    "resources/Git & Github - Separate Timelines.png",
+    "resources/Git & Github - First Project Workflow.png",
+    "resources/Git & Github - Repository Creation.png",
+    "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md",
+    "Terminal, Git & Github/Git & Github - Basics/Git - Flow Diagram TBD.canvas",
+    "Terminal, Git & Github/Git & Github - Basics/Git & Github - Common Issues.md",
+    "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
+    "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
+    "Developer Fundamentals.canvas",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Password Token.md",
+    "resources/Git & Github - Token Password.png",
+    "resources/Git & Github - Industry Standard.png",
+    "resources/Git & Github - Teamwork puzzle.png",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
+    "Terminal, Git & Github/Github/Terminal - Get Started.md",
+    "Terminal, Git & Github/Github/Terminal - Flow Diagram.canvas",
+    "Terminal, Git & Github/Github/SUDO - Superuser Do.md",
+    "Terminal, Git & Github/Github",
+    "Terminal, Git & Github/Terminal - Basics/Terminal - Get Started.md",
+    "README.md",
+    "!SUDO - Superuser Do.md",
     "Terminal, Git & Github/Terminal - Basics/Terminal - Flow Diagram.canvas",
-    "resources/Code Example - part 1.png",
-    "resources/Code Example - part 2.png",
-    "resources/Github Account - Circle.png",
-    "resources/Terminal - Git Branch - Flow Diagram.png",
-    "resources/Terminal - Navigate - Flow Diagram.png",
-    "Terminal, Git & Github/Terminal - Basics/Terminal - Workflow.md",
-    "resources/Terminal - Windows os png.png",
-    "resources/Pasted image 20250911131919.png",
-    "resources/Terminal - Linux os png.png",
-    "resources/Pasted image 20250911131803.png",
-    "resources/Terminal - Sudo info png.png",
+    "resources/Git & Github - Benefits diagram.png",
+    "resources/Git & Github - Workflow.png",
+    "resources/Git & Github - Git + Github png.png",
+    "resources/Git & Github -.png",
+    "Terminal, Git & Github/Git & Github - Basics/SUDO - Superuser Do.md",
+    "Terminal, Git & Github/Git & Github - Basics",
     "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md",
     "Terminal, Git & Github/Branching/Branches.md",
-    "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
     "Terminal, Git & Github/Terminal - Basics",
     "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas",
-    "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
     "Terminal, Git & Github/Branching",
     "Terminal, Git & Github",
     "resources",
