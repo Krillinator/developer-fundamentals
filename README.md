@@ -1,3 +1,6 @@
+# Preface
+Still in development...
+
 # 📘 Developer Fundamentals — Obsidian Notes
 
 Interactive tutorials and notes covering the **essentials every developer needs**:
@@ -50,7 +53,7 @@ Built in **Obsidian**, version-handled with Git.
 ## 🌱 Roadmap
 
 * [x] Expand **Terminal tutorials**
-* [ ] Add **Git workflows & examples**
+* [x] BUT - still need more... Add **Git workflows & examples**
 * [ ] Introduce **programming fundamentals**
 * [x] Add **Common Git Errors**
 * [x] Add **Github Projects**
