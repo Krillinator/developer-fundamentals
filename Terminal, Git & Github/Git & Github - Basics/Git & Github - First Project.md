@@ -68,7 +68,7 @@ Before we publish anything, we need a repository (repo) on GitHub.. this will be
 > 4. Choose visibility:  
 >    - **Public** *(anyone can see it)*  
 >    - **Private** *(only you and collaborators)*  
-> 5. ⚠️ **Important:** Leave “Add a README” unchecked *(we want an empty repo to push to)*  
+> 5. **Important:** Leave “Add a README” unchecked *(we want an empty repo to push to)*  
 > 6. Click **Create repository**  
 
 
@@ -99,7 +99,7 @@ Now let’s make something simple that we’ll upload to GitHub.
 > dir
 > ```
 >
-> ✅ You should now see a file called `my-backup.txt` in the folder.
+> You should now see a file called `my-backup.txt` in the folder.
 
 ---
 

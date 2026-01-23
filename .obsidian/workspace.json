@@ -11,14 +11,17 @@
             "id": "4d256bfe0a85eb64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
-                "mode": "source",
-                "source": false
+                "file": "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": 250,
+                  "zoom": -0.7055526415347447
+                }
               },
-              "icon": "lucide-file",
-              "title": "Github - Account Creation"
+              "icon": "lucide-layout-dashboard",
+              "title": "User & Technical Stories Example - Flow Diagram"
             }
           }
         ]
@@ -173,22 +176,24 @@
   },
   "active": "4d256bfe0a85eb64",
   "lastOpenFiles": [
-    "index.canvas",
     "Terminal, Git & Github/Terminal - Basics/Terminal - Flow Diagram.canvas",
+    "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Password Token.md",
     "Terminal, Git & Github/Terminal - Basics/Terminal - Get Started.md",
+    "index.canvas",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Removing Files from Git.md",
+    "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas",
+    "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
+    "Terminal, Git & Github/Git & Github - Basics/Git & Github - Common Issues.md",
     "Terminal, Git & Github/Terminal - Basics/Terminal & Files - Basics.md",
     "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md",
-    "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md",
-    "Terminal, Git & Github/Git & Github - Basics/Git & Github - Common Issues.md",
-    "Terminal, Git & Github/Git & Github - Basics/Git - Flow Diagram TBD.canvas",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
-    "Terminal, Git & Github/Branching/Branches - Basics.md",
-    "Terminal Fundamentals.md",
-    "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
     "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Password Token.md",
+    "Terminal, Git & Github/Branching/Branches - Basics.md",
+    "README.md",
+    "Terminal, Git & Github/Git & Github - Basics/Git - Flow Diagram TBD.canvas",
+    "Terminal Fundamentals.md",
     "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
-    "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas",
     "resources/Terminal & Files - icon.png",
     "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas",
     "Terminal, Git & Github/Branching/Git Branch Simplified - Flow Diagram.canvas",
@@ -202,7 +207,6 @@
     "resources/Github Account - Circle.png",
     "Terminal, Git & Github/User & Technical Stories",
     "Terminal, Git & Github/User & Technical Stories",
-    "README.md",
     "TODO.md",
     "resources/Git & Github - Separate Timelines.png",
     "resources/Git & Github - First Project Workflow.png",

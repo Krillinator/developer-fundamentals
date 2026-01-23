@@ -68,9 +68,8 @@ The **Terminal** is your direct connection to the computer:
 > ![[Terminal - Navigate - Flow Diagram.png|900]]
 
 
-> [!example]
+> [!example] Navigating Folders
 > 
-> #### #1 Navigating Folders
 > 
 > - Move into a folder:
 >     
@@ -116,9 +115,9 @@ The **Terminal** is your direct connection to the computer:
 
 ---
 
-> [!example]- Example 2
+> [!example]- Viewing Files
 > 
-> #### #2 Viewing Files
+> 
 > 
 > - Show files in current folder:
 >     
@@ -136,9 +135,9 @@ The **Terminal** is your direct connection to the computer:
 
 ---
 
-> [!example]- Example 3
+> [!example]- Creating Files & Folders
 > 
-> #### #3 Creating Files & Folders
+>
 > 
 > - Create a new file:
 >     

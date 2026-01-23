@@ -2,6 +2,37 @@
 	"nodes":[
 		{"id":"0737804e42e80bba","type":"group","ratio":1.7777777777777777,"x":-740,"y":-300,"width":1529,"height":860,"label":"Terminal - GET STARTED"},
 		{
+			"id":"3215f7870b5030c4",
+			"type":"text",
+			"text":"```bash \ndir",
+			"styleAttributes":{"textAlign":"center"},
+			"x":640,
+			"y":-180,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"fe6fce1cd520ae5c",
+			"type":"text",
+			"text":"Are you using Mac or Linux?",
+			"styleAttributes":{"textAlign":"center"},
+			"x":430,
+			"y":-40,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"89e9a0f07e15a3b3",
+			"type":"text",
+			"text":"```bash\ncd ~/Desktop",
+			"styleAttributes":{},
+			"x":430,
+			"y":160,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"a62f1b6cae92b8c7",
 			"type":"text",
 			"text":"```bash \nls",
@@ -36,6 +67,17 @@
 			"color":"4"
 		},
 		{
+			"id":"133586fcf7d2e1f9",
+			"type":"text",
+			"text":"In some cases the name 'Desktop' is localized. Example:\n```bash cd ~/Skrivbord```\n",
+			"styleAttributes":{"shape":"document"},
+			"x":410,
+			"y":270,
+			"width":300,
+			"height":130,
+			"color":"2"
+		},
+		{
 			"id":"dd88d5f3d5407e4c",
 			"type":"text",
 			"text":"\n``` bash\nCTRL + ALT + T",
@@ -57,49 +99,7 @@
 			"height":120,
 			"color":"5"
 		},
-		{"id":"fbe1b413d195abd0","type":"file","file":"resources/Terminal - Windows os png.png","x":-700,"y":370,"width":400,"height":136,"color":"5"},
-		{
-			"id":"3215f7870b5030c4",
-			"type":"text",
-			"text":"```bash \ndir",
-			"styleAttributes":{"textAlign":"center"},
-			"x":640,
-			"y":-180,
-			"width":100,
-			"height":60
-		},
-		{
-			"id":"133586fcf7d2e1f9",
-			"type":"text",
-			"text":"In some cases the name 'Desktop' is localized. Example:\n```bash cd ~/Skrivbord```\n",
-			"styleAttributes":{"shape":"document"},
-			"x":410,
-			"y":270,
-			"width":300,
-			"height":130,
-			"color":"2"
-		},
-		{
-			"id":"fe6fce1cd520ae5c",
-			"type":"text",
-			"text":"Are you using Mac or Linux?",
-			"styleAttributes":{"textAlign":"center"},
-			"x":430,
-			"y":-40,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"89e9a0f07e15a3b3",
-			"type":"text",
-			"text":"```bash\ncd ~/Desktop",
-			"styleAttributes":{},
-			"x":430,
-			"y":160,
-			"width":260,
-			"height":60
-		}
+		{"id":"fbe1b413d195abd0","type":"file","file":"resources/Terminal - Windows os png.png","x":-700,"y":370,"width":400,"height":136,"color":"5"}
 	],
 	"edges":[
 		{

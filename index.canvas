@@ -46,23 +46,56 @@
 			"color":"3"
 		},
 		{
-			"id":"84c40f2c588d0c52",
-			"type":"text",
-			"text":"[[Terminal, Git & Github/Terminal - Basics/Terminal - Get Started]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-340,
-			"y":255,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"ba6d837c31f91699",
 			"type":"text",
 			"text":"[[Terminal & Files - Basics]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-340,
 			"y":339,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"6018291a15eb1bfd",
+			"type":"text",
+			"text":"**Begin here**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-760,
+			"y":40,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ec8f58084d761e37",
+			"type":"text",
+			"text":"Basic understanding of \nGitHub Issues?",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":1120,
+			"y":566,
+			"width":260,
+			"height":78,
+			"color":"3"
+		},
+		{
+			"id":"6b66b4cfa3c6614f",
+			"type":"text",
+			"text":"Basic understanding of \nClear Documentation",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":1120,
+			"y":740,
+			"width":260,
+			"height":78,
+			"color":"3"
+		},
+		{
+			"id":"776aef533d0e8be5",
+			"type":"text",
+			"text":"[[User Stories vs Technical User Stories]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1520,
+			"y":399,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -163,7 +196,7 @@
 			"x":700,
 			"y":440,
 			"width":300,
-			"height":97,
+			"height":60,
 			"color":"1"
 		},
 		{
@@ -178,6 +211,17 @@
 			"color":"6"
 		},
 		{
+			"id":"84c40f2c588d0c52",
+			"type":"text",
+			"text":"[[Terminal, Git & Github/Terminal - Basics/Terminal - Get Started]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-340,
+			"y":255,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
 			"id":"97abd620e4b3038a",
 			"type":"text",
 			"text":"[[Cheatsheet - Pull Requests]]",
@@ -187,17 +231,6 @@
 			"width":260,
 			"height":60,
 			"color":"6"
-		},
-		{
-			"id":"6018291a15eb1bfd",
-			"type":"text",
-			"text":"**Begin here**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-760,
-			"y":40,
-			"width":260,
-			"height":60,
-			"color":"4"
 		},
 		{
 			"id":"4c4f99f7384464b0",
@@ -233,39 +266,6 @@
 			"color":"3"
 		},
 		{
-			"id":"ec8f58084d761e37",
-			"type":"text",
-			"text":"Basic understanding of \nGitHub Issues?",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":1120,
-			"y":566,
-			"width":260,
-			"height":78,
-			"color":"3"
-		},
-		{
-			"id":"6b66b4cfa3c6614f",
-			"type":"text",
-			"text":"Basic understanding of \nClear Documentation",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":1120,
-			"y":740,
-			"width":260,
-			"height":78,
-			"color":"3"
-		},
-		{
-			"id":"776aef533d0e8be5",
-			"type":"text",
-			"text":"[[User Stories vs Technical User Stories]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1520,
-			"y":399,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"ad5892584aaf3f6b",
 			"type":"text",
 			"text":"Github Collaboration",
@@ -286,6 +286,17 @@
 			"width":260,
 			"height":78,
 			"color":"3"
+		},
+		{
+			"id":"e6d490c227c8d18a",
+			"type":"text",
+			"text":"[[Github - Removing Files from Git]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":533,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -531,7 +542,8 @@
 		},
 		{"id":"5a0623cbf8e24458","fromNode":"7db36be2768bbb86","fromSide":"right","toNode":"776aef533d0e8be5","toSide":"left","label":"No"},
 		{"id":"8275c6b6f8e8afc7","fromNode":"84c40f2c588d0c52","fromSide":"bottom","toNode":"ba6d837c31f91699","toSide":"top","toEnd":"none"},
-		{"id":"dfbca7b9e894b2d0","fromNode":"85ade5c276b423e6","fromSide":"bottom","toNode":"9d01d8b09b9884d2","toSide":"top","toEnd":"none"}
+		{"id":"dfbca7b9e894b2d0","fromNode":"85ade5c276b423e6","fromSide":"bottom","toNode":"9d01d8b09b9884d2","toSide":"top","toEnd":"none"},
+		{"id":"26aa9df34f3f4d70","fromNode":"9d01d8b09b9884d2","fromSide":"bottom","toNode":"e6d490c227c8d18a","toSide":"top","toEnd":"none"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
