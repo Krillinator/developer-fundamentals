@@ -1,3 +1,6 @@
+---
+icon: LiKey
+---
 
 ### What is `sudo`?
 
@@ -44,7 +47,7 @@ Just type it normally and press **Enter**.
 
 ---
 
->[!warning] `sudo` across systems
+>[!warning] sudo across systems
 >- **macOS / Linux**  
 >  - Use `sudo` to run commands as **administrator (root)**.  
 >  - Example:  
@@ -59,4 +62,9 @@ Just type it normally and press **Enter**.
 >  - Instead, you must **run PowerShell as Administrator** (right-click → “Run as administrator”).  
 >  - Some commands require elevated privileges, but you don’t prefix them with `sudo`.  
 >
->⚠️ Remember: use `sudo` (or admin mode) only when necessary.. it gives you full system power, including the ability to break things!
+>Remember: use `sudo` (or admin mode) only when necessary.. it gives you full system power, including the ability to break things!
+
+---
+
+## **Finished**
+ Back to Overview: [[index.canvas|Developer Fundamentals]]

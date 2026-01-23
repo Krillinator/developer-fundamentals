@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"0737804e42e80bba","type":"group","ratio":1.7777777777777777,"x":-580,"y":-280,"width":1120,"height":480,"label":"Online Shop - User Stories Example"},
+		{"id":"df28a60416b928e2","type":"group","ratio":1.7777777777777777,"x":-580,"y":300,"width":1120,"height":480,"label":"Online Shop - Technical Stories Example"},
+		{"id":"b96e5a6a86059a1a","type":"text","text":"Add to Cart","x":-105,"y":-45,"width":125,"height":50,"color":"5"},
+		{"id":"a1f8529393ba2a7d","type":"text","text":"Browse Products","x":-540,"y":-45,"width":180,"height":50,"color":"5"},
+		{"id":"c54c47e8ba07c43e","type":"text","text":"    Online Shop","x":-122,"y":-200,"width":160,"height":59,"color":"2"},
+		{"id":"313fc4aa5b2c0d6a","type":"text","text":"- As a customer\n- I want to add products to a basket\n- So I can buy more than one item","x":-206,"y":20,"width":327,"height":120,"color":"3"},
+		{"id":"756bc25e36fe2bd9","type":"text","text":"- As a customer\n- I want to see products\n- So I can choose what to buy","x":-540,"y":20,"width":260,"height":90,"color":"3"},
+		{"id":"56b8b6d50bb38279","type":"text","text":"    Online Shop","x":-122,"y":380,"width":160,"height":59,"color":"2"},
+		{"id":"bf25a0e6f375167b","type":"text","text":"Payment","x":400,"y":-45,"width":100,"height":50,"color":"5"},
+		{"id":"2212e14397262b93","type":"text","text":"- As a customer\n- I want to pay for my basket\n- So I can complete my purchase","x":200,"y":20,"width":300,"height":90,"color":"3"},
+		{"id":"063f529593e4bf6e","type":"text","text":"Browse Products","x":-540,"y":535,"width":180,"height":50,"color":"5"},
+		{"id":"c05790d99d382f20","type":"text","text":"- As the system\n- I want to store selected products in a cart\n- So the user’s choices persist between pages","x":-206,"y":600,"width":327,"height":160,"color":"3"},
+		{"id":"df4b909df856cb5b","type":"text","text":"- As the system\n- I want to fetch products from a database\n- So products can be displayed to the user buy","x":-540,"y":600,"width":260,"height":160,"color":"3"},
+		{"id":"11b4616588564660","type":"text","text":"Add to Cart","x":-105,"y":535,"width":125,"height":50,"color":"5"},
+		{"id":"f12fe6f977f0a0d9","type":"text","text":"Payment","x":400,"y":535,"width":100,"height":50,"color":"5"},
+		{"id":"b9096fb127f50be0","type":"text","text":"- As the system\n- I want to process payments securely\n- So orders can be completed safely","x":200,"y":600,"width":300,"height":160,"color":"3"}
+	],
+	"edges":[
+		{"id":"7684b7e48436ac5c","fromNode":"c54c47e8ba07c43e","fromSide":"left","toNode":"a1f8529393ba2a7d","toSide":"top"},
+		{"id":"eb0dfa75453d7874","fromNode":"c54c47e8ba07c43e","fromSide":"right","toNode":"bf25a0e6f375167b","toSide":"top"},
+		{"id":"53a70ad887443314","fromNode":"c54c47e8ba07c43e","fromSide":"bottom","toNode":"b96e5a6a86059a1a","toSide":"top"},
+		{"id":"5915df35f7b72dd4","fromNode":"56b8b6d50bb38279","fromSide":"bottom","toNode":"11b4616588564660","toSide":"top"},
+		{"id":"4ba3a29fb3450869","fromNode":"56b8b6d50bb38279","fromSide":"right","toNode":"f12fe6f977f0a0d9","toSide":"top"},
+		{"id":"0f109044a5fa3b98","fromNode":"56b8b6d50bb38279","fromSide":"left","toNode":"063f529593e4bf6e","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"0737804e42e80bba"
+	}
+}

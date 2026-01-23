@@ -1,3 +1,6 @@
+---
+icon: LiGithub
+---
 
 
 ### What is GitHub?
@@ -7,7 +10,8 @@
 >
 > **Think of it as:**  
 > 	_“A home for your projects - where code, history, and collaboration live together.”_  
-> ![[Git & Github - Teamwork puzzle.png|200]]
+> 	
+> ![[Git & Github - Teamwork puzzle.png|150]]
 
 ---
 
@@ -15,13 +19,13 @@
 
 GitHub is the world’s most popular platform for version control and collaboration.  
 
-- 🌍 **Industry standard** → most companies and open-source projects use it.  
-- 🤝 **Collaboration** → easy to share code, review changes, and work in teams.  
-- 🕒 **History & backup** → every version of your project is saved.  
-- 🚀 **Integrations** → connects with tools like Docker, CI/CD, and cloud providers.  
-- 🎓 **Career value** → almost every developer is expected to know GitHub basics.  
+-  **Industry standard** → most companies and open-source projects use it.  
+-  **Collaboration** → easy to share code, review changes, and work in teams.  
+-  **History & backup** → every version of your project is saved.  
+-  **Integrations** → connects with tools like Docker, CI/CD, and cloud providers.  
+-  **Career value** → almost every developer is expected to know GitHub basics.  
 
-![[Git & Github - Industry Standard.png|200]]
+![[Git & Github - Industry Standard.png|150]]
 
 ---
 
@@ -77,3 +81,8 @@ It’s the first step towards:
 > [!info] Documentation  
 > - [GitHub Sign Up](https://github.com/signup)  
 > - [Getting Started with GitHub](https://docs.github.com/en/get-started)  
+
+---
+
+## **Finished**
+ Back to Overview: [[index.canvas|Developer Fundamentals]]

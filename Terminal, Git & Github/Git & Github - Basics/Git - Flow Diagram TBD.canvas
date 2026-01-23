@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0737804e42e80bba","type":"group","ratio":1.7777777777777777,"x":-740,"y":-300,"width":1778,"height":1000,"label":"Start Slide"},
+		{"id":"0737804e42e80bba","type":"group","ratio":1.7777777777777777,"x":-740,"y":-300,"width":1778,"height":1000,"label":"From Terminal -> Project -> Pushing to Github"},
 		{
 			"id":"9a47fda571fd78f8",
 			"type":"text",
@@ -43,34 +43,12 @@
 			"color":"6"
 		},
 		{
-			"id":"718414a2e7ded08d",
-			"type":"text",
-			"text":"Publish",
-			"styleAttributes":{"textAlign":"center"},
-			"x":20,
-			"y":580,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"3dbcdf63032711aa",
 			"type":"text",
 			"text":"Add New Files",
 			"styleAttributes":{"textAlign":"center"},
 			"x":20,
 			"y":260,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"ac133024438f7352",
-			"type":"text",
-			"text":"Add Commit Description",
-			"styleAttributes":{"textAlign":"center"},
-			"x":20,
-			"y":400,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -118,6 +96,28 @@
 			"width":260,
 			"height":160,
 			"color":"2"
+		},
+		{
+			"id":"718414a2e7ded08d",
+			"type":"text",
+			"text":"Publish",
+			"styleAttributes":{"textAlign":"center"},
+			"x":20,
+			"y":580,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ac133024438f7352",
+			"type":"text",
+			"text":"Add Commit Description",
+			"styleAttributes":{"textAlign":"center"},
+			"x":20,
+			"y":400,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[

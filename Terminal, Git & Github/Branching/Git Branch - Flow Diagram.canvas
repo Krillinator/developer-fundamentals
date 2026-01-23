@@ -1,52 +1,6 @@
 {
 	"nodes":[
-		{"id":"0737804e42e80bba","type":"group","ratio":1.7777777777777777,"x":-740,"y":-280,"width":1440,"height":810,"label":"Start Slide"},
-		{
-			"id":"b1252cad74167c8d",
-			"type":"text",
-			"text":"commit #124",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-155,
-			"y":90,
-			"width":135,
-			"height":60,
-			"color":"2"
-		},
-		{"id":"b49bf276f0dc1b48","type":"file","file":"resources/Discussion - Group.png","x":455,"y":170,"width":130,"height":112},
-		{
-			"id":"d6bdcd018762e53e",
-			"type":"text",
-			"text":"Clone Github Repository",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-540,
-			"y":-160,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{"id":"88d273aa76479302","type":"file","file":"resources/Github Account - Circle.png","x":-700,"y":-50,"width":160,"height":160},
-		{
-			"id":"561ff1b622c4299a",
-			"type":"text",
-			"text":"Create new Branch",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-217,
-			"y":-160,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"9c87883c472ac7e4",
-			"type":"text",
-			"text":"Commit work to new branch",
-			"styleAttributes":{"shape":"parallelogram"},
-			"x":-520,
-			"y":196,
-			"width":323,
-			"height":60,
-			"color":"5"
-		},
+		{"id":"0737804e42e80bba","type":"group","ratio":1.7777777777777777,"x":-960,"y":-280,"width":1960,"height":980,"label":"Branch Workflow with commands"},
 		{
 			"id":"b5b0f461f7060d97",
 			"type":"text",
@@ -58,6 +12,44 @@
 			"height":60,
 			"color":"2"
 		},
+		{"id":"b49bf276f0dc1b48","type":"file","file":"resources/Discussion - Group.png","x":740,"y":246,"width":130,"height":112},
+		{
+			"id":"d04ef8cb7728d357",
+			"type":"text",
+			"text":"Push the newly created branch. \n\nThe branch is now available to others within the team",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":675,
+			"y":-190,
+			"width":260,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"d6bdcd018762e53e",
+			"type":"text",
+			"text":"Clone Github Repository",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-520,
+			"y":-160,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{"id":"88d273aa76479302","type":"file","file":"resources/Github Account - Circle.png","x":-920,"y":-210,"width":160,"height":160},
+		{
+			"id":"9c87883c472ac7e4",
+			"type":"text",
+			"text":"Commit work to new branch",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":-920,
+			"y":90,
+			"width":323,
+			"height":60,
+			"color":"5"
+		},
 		{
 			"id":"011a7490f44c0619",
 			"type":"text",
@@ -67,38 +59,36 @@
 				"shape":"predefined-process",
 				"border":null
 			},
-			"x":-22,
-			"y":282,
+			"x":-260,
+			"y":302,
 			"width":260,
 			"height":160,
 			"color":"2"
 		},
 		{
-			"id":"d04ef8cb7728d357",
+			"id":"b1252cad74167c8d",
 			"type":"text",
-			"text":"Push the newly created branch. \n\nThe branch is now available to others within the team",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":390,
-			"y":-190,
+			"text":"commit #124",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-135,
+			"y":90,
+			"width":135,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"561ff1b622c4299a",
+			"type":"text",
+			"text":"Create new Branch",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-197,
+			"y":-160,
 			"width":260,
-			"height":120,
+			"height":60,
 			"color":"6"
 		}
 	],
 	"edges":[
-		{
-			"id":"50ed428fabfeb4bc",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"88d273aa76479302",
-			"fromSide":"right",
-			"toNode":"d6bdcd018762e53e",
-			"toSide":"bottom",
-			"label":"Collaborator"
-		},
 		{
 			"id":"8d3a510f5248b8c9",
 			"styleAttributes":{
@@ -186,19 +176,8 @@
 			"toSide":"bottom",
 			"color":"3"
 		},
-		{
-			"id":"0fcd25b83b8c7640",
-			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"9c87883c472ac7e4",
-			"fromSide":"top",
-			"toNode":"b1252cad74167c8d",
-			"toSide":"left",
-			"fromEnd":"arrow",
-			"color":"5",
-			"label":"$ git add .\n$ git commit -m \"initial commit\""
-		}
+		{"id":"9a3b138804dfd582","fromNode":"9c87883c472ac7e4","fromSide":"right","toNode":"b1252cad74167c8d","toSide":"left","label":"$ git add .\n$ git commit -m \"initial commit\""},
+		{"id":"ad4ce4ad7419bdc4","fromNode":"88d273aa76479302","fromSide":"right","toNode":"d6bdcd018762e53e","toSide":"left","label":"Collaborator"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

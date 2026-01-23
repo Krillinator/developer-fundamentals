@@ -1,3 +1,6 @@
+---
+icon: LiGitBranch
+---
 
 ![[Git branch - Workflow abstract png.png|200]]
 ### What is a Branch?
@@ -18,7 +21,7 @@
 3. **You push it** to GitHub.
 4. Later, you can **merge it back** into `main` through a Pull Request.
 
-> ![[Terminal - Git Branch - Flow Diagram.png]]
+> ![[Terminal - Git Branch - Flow Diagram simplified.png.png]]
 
 _This ensures that experiments or changes don’t break the stable version!_
 
@@ -141,3 +144,8 @@ A **branch** is really just a **safe workspace**:
 
 > [!info] Documentation  
 > Read more about Branches at Git’s official documentation: [https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+
+---
+
+## **Finished**
+ Back to Overview: [[index.canvas|Developer Fundamentals]]

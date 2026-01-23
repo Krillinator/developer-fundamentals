@@ -1,3 +1,6 @@
+---
+icon: LiGithub
+---
 
 ### What is Git & GitHub?
 
@@ -197,7 +200,8 @@ Now let’s make something simple that we’ll upload to GitHub.
 >```bash
 >rm -rf .git
 >```  
->*This completely removes Git tracking from the project.*
+>*This completely removes Git tracking from the project.* 
+>This will remove all local commits therefore it is recommended to perform a project backup!
 ---
 
 
@@ -218,3 +222,7 @@ Now let’s make something simple that we’ll upload to GitHub.
 > - [Git Official Docs](https://git-scm.com/doc)  
 > - [GitHub Docs](https://docs.github.com/en/get-started/using-git)  
 
+---
+
+## **Finished**
+ Back to Overview: [[index.canvas|Developer Fundamentals]]

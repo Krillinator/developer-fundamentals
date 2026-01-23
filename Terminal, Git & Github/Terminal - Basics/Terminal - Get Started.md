@@ -1,10 +1,14 @@
+---
+icon: LiTerminal
+---
 
 ![[Terminal - Workflow abstract.png|200]]
 
 ### What is the Terminal?
 
 > The **Terminal** (sometimes called _command line_ or _shell_) is a way to **control your computer with text commands** instead of clicking.  
-> _It lets you **navigate**, **create files/folders**, and **run programs** directly._
+> 
+> It lets you **navigate**, **create files/folders**, and **run programs** directly.
 > 
 > **Think of it as:**  
 > _“Talking to your computer in its own language, step by step.”_  
@@ -18,11 +22,10 @@
    - **Windows:** Press `Win + R`, type `powershell`, hit Enter  
    - **Mac:** Press `Command + Space`, type `Terminal`, hit Enter  
    - **Linux:** Press `Ctrl + Alt + T`  
-
-2. **Navigate** to a folder (`cd` = change directory).  
-3. **List files** (`ls` or `dir`).  
-4. **Create or remove** files/folders.  
-5. **Check where you are** (`pwd`).  
+1. **Navigate** to a folder (`cd` = change directory).  
+2. **List files** (`ls` or `dir`).  
+3. **Create or remove** files/folders.  
+4. **Check where you are** (`pwd`).  
 
 
 > ![[Terminal - Sudo info png.png|100]]
@@ -59,8 +62,8 @@ The **Terminal** is your direct connection to the computer:
 #### Prerequisites
 
 - **Windows:** Open **PowerShell** (search in Start menu).
-- **Mac:** Open the built-in **Terminal** app.
-- **Linux:** Use **Ctrl+Alt+T** to open a Terminal.
+- **Mac:** Use `COMMAND + SPACE` Search for **Terminal** app.
+- **Linux:** Use `**Ctrl + Alt + T**` to open a Terminal.
 
 > ![[Terminal - Navigate - Flow Diagram.png|900]]
 
@@ -95,7 +98,7 @@ The **Terminal** is your direct connection to the computer:
 >     ```
 >     
 
->[!hint] Navigation tips
+>[!hint]- Navigation tips
 >1. **Go up one folder (parent):**  
 >  ```bash
 >  cd ..
@@ -113,7 +116,7 @@ The **Terminal** is your direct connection to the computer:
 
 ---
 
-> [!example]
+> [!example]- Example 2
 > 
 > #### #2 Viewing Files
 > 
@@ -133,7 +136,7 @@ The **Terminal** is your direct connection to the computer:
 
 ---
 
-> [!example]
+> [!example]- Example 3
 > 
 > #### #3 Creating Files & Folders
 > 
@@ -164,7 +167,7 @@ The **Terminal** is your direct connection to the computer:
 >     ```
 >     
 
-> [!warning]  
+> [!warning]-  
 > Be careful with **delete commands** (`rm -rf` on Mac/Linux or `Remove-Item -Force` on Windows).  
 > They **skip the recycle bin** and **permanently erase files**.
 
@@ -172,34 +175,29 @@ The **Terminal** is your direct connection to the computer:
 
 ### Productivity Tips in the Terminal
 
-> Working in the terminal becomes much faster once you know a few **shortcuts** and **time-savers**.  
+> Working in the terminal becomes much faster once you know a few **shortcuts**.
 > These small tricks help you stay efficient while navigating and managing files.
 
-#### Clear & Reset
+> [!hint]- Clear Text
+>
+>- **Mac/Linux:** `clear`
+>- **Windows:** `cls`
 
-- **Mac/Linux:** `clear`
-- **Windows:** `cls`
-
-#### Reuse Commands
-
-- Press **↑ / ↓** to cycle through previous commands
-- (Mac/Linux only) run last command again with:
+> [!hint]- Reuse Commands
+>
+>- Press **↑ / ↓** to cycle through previous commands
+>- (Mac/Linux only) run last command again with:
   
-```bash
-!!
-    ```
+> [!hint]- Autocomplete
+>
+>- Start typing, press **Tab** → fills in the file/folder name automatically
 
-#### Autocomplete
-
-- Start typing, press **Tab** → fills in the file/folder name automatically
-
-
-#### Cancel a Running Command
-
-- Works everywhere:
-```
-Ctrl + C
-```
+> [!hint]-  Cancel a Running Command
+>
+>- Works everywhere:
+>```
+>Ctrl + C
+> ```
 
 ---
 ### Now what?
@@ -208,6 +206,9 @@ Ctrl + C
 > **YOU DID IT!**  
 > Practice **navigating**, **creating**, and **deleting** files with these commands.  
 > Once you’re comfortable, you’ll be ready to use the Terminal for **Git, programming, and automation**.
+> 
+> Unsure what to do next? 
+> Click here and go to the next step: [[index.canvas|Developer Fundamentals]]
 
 ---
 
@@ -220,4 +221,7 @@ Ctrl + C
 > - Mac/Linux (Bash): [https://www.gnu.org/software/bash/manual/](https://www.gnu.org/software/bash/manual/)
 >     
 
+---
 
+## **Finished**
+ Back to Overview: [[index.canvas|Developer Fundamentals]]

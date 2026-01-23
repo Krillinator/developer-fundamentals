@@ -1,10 +1,15 @@
+---
+icon: LiGitPullRequest
+---
 ### What is a Pull Request?
+
 > A **pull request (PR)** is basically a **request to merge code** from one branch into another branch (usually into `main` or `develop`).
 >	*You take changes from one branch and **combine them into another***
 >
 > **Think of it as:**
 > 	_“Hey team, I finished a piece of work on my branch. Please review it before we add it to the main project.”_
->![[Pull Request - Overview.png]]
+> 	
+>![[Pull Request - Overview.png|500]]
 
 ---
 
@@ -21,6 +26,9 @@
 
 *This ensures that our **main branch stays stable**!*
 
+>[!warning]- Feedback can lead to rejection
+> Although the image showcase 'discussion of feedback' then an immediate merge. It oftentimes is rejected due to: code quality, bugs, security issues, performance etc..
+> When rejected, you won't be allowed to merge.
 
 >[!tip]
 > Tools such as **GitHub Projects**, together with **issues** and **user stories**, **provide structure** and **improve communication**, leading to a more efficient and higher-quality workflow.
@@ -38,8 +46,9 @@ A **Pull Request (PR)** is really just a formal **proposal**:
 - Keeps a **history** of why and how changes were made.
 - Connects to **Issues/Project boards** so work is traceable.
 
-![[Shaking Hands.png|500]]
+![[Shaking Hands.png|300]]
 
+---
 #### Draft Pull Requests
 Sometimes your code isn’t ready to merge yet, but you still want feedback.  
 That’s when you can open a **Draft Pull Request**:
@@ -117,3 +126,8 @@ That’s when you can open a **Draft Pull Request**:
 
 > [!info]  Documentation
 > Read more about Pull Requests at Github's official documentation: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+---
+
+## **Finished**
+ Back to Overview: [[index.canvas|Developer Fundamentals]]

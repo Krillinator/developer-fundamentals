@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"0737804e42e80bba","type":"group","ratio":1.7777777777777777,"x":-960,"y":-280,"width":1180,"height":700,"label":"Branch Workflow"},
+		{"id":"e741c4d5db49f381","type":"group","x":-155,"y":-200,"width":290,"height":530,"label":"GitHub"},
+		{"id":"02ca3d8bc76f8bca","type":"group","x":-900,"y":-200,"width":290,"height":530,"label":"Local PC"},
+		{"id":"f24d636176e10aea","type":"text","text":"Branch Available","x":-135,"y":180,"width":250,"height":50,"color":"2"},
+		{"id":"73b469cb883b03bb","type":"text","text":"Repository","x":-135,"y":-180,"width":250,"height":50,"color":"2"},
+		{"id":"5f375c2464a3a939","type":"text","text":"Others can now see branch","x":-135,"y":260,"width":250,"height":50,"color":"2"},
+		{"id":"44667ec7cc61b99f","type":"text","text":"Create Branch","x":-880,"y":-20,"width":250,"height":50,"color":"5"},
+		{"id":"360470f53a32fe92","type":"text","text":"Commit Work","x":-880,"y":64,"width":250,"height":50,"color":"5"},
+		{"id":"5eaf474d607f0dae","type":"text","text":"Push Branch","x":-880,"y":180,"width":250,"height":50,"color":"5"},
+		{"id":"5a06252f2031ad36","type":"text","text":"Fetch","x":-880,"y":260,"width":250,"height":50,"color":"5"},
+		{"id":"23f47a7966722f64","type":"text","text":"Clone Repository","x":-880,"y":-180,"width":250,"height":50,"color":"5"},
+		{"id":"71490b266a6d9831","type":"text","text":"$ git checkout -b NAME","x":-535,"y":-25,"width":250,"height":60,"color":"6"},
+		{"id":"8060712ba545f248","type":"text","text":"$ git commit -m \"TITLE\" -m \"Description\"","x":-535,"y":59,"width":340,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"d11ae795c1b14d01","fromNode":"23f47a7966722f64","fromSide":"right","toNode":"73b469cb883b03bb","toSide":"left","label":"$ git clone URL"},
+		{"id":"f2c78fdbd3710e1f","fromNode":"5eaf474d607f0dae","fromSide":"right","toNode":"f24d636176e10aea","toSide":"left"},
+		{"id":"a14004f45d63e348","fromNode":"44667ec7cc61b99f","fromSide":"right","toNode":"71490b266a6d9831","toSide":"left"},
+		{"id":"f1bd214524b7fe29","fromNode":"5f375c2464a3a939","fromSide":"left","toNode":"5a06252f2031ad36","toSide":"right","label":"$ git fetch"},
+		{"id":"98620ab23ee1d825","fromNode":"360470f53a32fe92","fromSide":"right","toNode":"8060712ba545f248","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"0737804e42e80bba"
+	}
+}

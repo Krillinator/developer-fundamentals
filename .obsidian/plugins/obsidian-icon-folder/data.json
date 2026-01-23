@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGithub",
-      "LiKey",
       "LiTerminal",
       "LiImage",
-      "LiGitBranch"
+      "LiStickyNote",
+      "LiFolder",
+      "LiGithub"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,6 @@
   "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas": "LiImage",
   "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md": "LiGitPullRequest",
   "Terminal, Git & Github/Branching": "LiFolder",
-  "Terminal, Git & Github/Branching/Branches.md": "LiGitBranch",
   "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas": "LiImage",
   "Terminal, Git & Github/Terminal - Basics": "LiFolder",
   "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md": "LiKey",
@@ -49,5 +48,11 @@
   "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md": "LiGithub",
   "Terminal, Git & Github/Git & Github - Basics/Github - Password Token.md": "LiGithub",
   "Terminal, Git & Github/Git & Github - Basics/Git & Github - Common Issues.md": "LiGithub",
-  "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md": "LiGithub"
+  "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md": "LiGithub",
+  "Terminal, Git & Github/User & Technical Stories": "LiFolder",
+  "Terminal, Git & Github/Branching/Git Branch Simplified - Flow Diagram.canvas": "LiImage",
+  "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md": "LiStickyNote",
+  "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas": "LiImage",
+  "Terminal, Git & Github/Terminal - Basics/Terminal & Files - Basics.md": "LiTerminal",
+  "Terminal, Git & Github/Branching/Branches - Basics.md": "LiGitBranch"
 }

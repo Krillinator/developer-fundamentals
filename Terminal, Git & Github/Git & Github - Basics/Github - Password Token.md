@@ -1,3 +1,6 @@
+---
+icon: LiGithub
+---
 
 
 ### What is a GitHub Token?
@@ -8,7 +11,7 @@
 > **Think of it as:**  
 > 	_“Your personal access key that Git uses instead of your GitHub password.”_  
 >  
-> ![[Git & Github - Token Password.png|200]]
+> ![[Git & Github - Token Password.png|150]]
 
 ---
 
@@ -24,10 +27,10 @@ _This ensures secure access between your local Git client and GitHub._
 
 ### Why it’s useful
 
-- 🔐 **More secure** than passwords  
-- 🔑 Required for all GitHub operations over HTTPS  
-- 🎯 Lets you control exactly what the token can do (scopes/permissions)  
-- 🕒 Tokens can expire — keeping your account safer  
+-  **More secure** than passwords  
+-  Required for all GitHub operations over HTTPS  
+-  Lets you control exactly what the token can do (scopes/permissions)  
+-  Tokens can expire — keeping your account safer  
 
 ---
 
@@ -111,3 +114,8 @@ _This ensures secure access between your local Git client and GitHub._
 > [!info] Documentation  
 > - [Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)  
 > - [Git Credential Manager](https://github.com/GitCredentialManager/git-credential-manager)  
+
+---
+
+## **Finished**
+ Back to Overview: [[index.canvas|Developer Fundamentals]]
