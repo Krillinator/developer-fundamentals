@@ -1,70 +1,44 @@
-# Preface
-Still in development...
+## 🌐 Developer Fundamentals
+**Live site:** [https://krillinator.github.io/developer-fundamentals.html](https://krillinator.github.io/developer-fundamentals/developer-fundamentals.html)
 
-# 📘 Developer Fundamentals — Obsidian Notes
+Practical notes and tutorials covering the **core fundamentals every developer needs**.  
+Built for beginners. Focused on real workflows.
 
-Interactive tutorials and notes covering the **essentials every developer needs**:
-
-- Command Line / Terminal basics (Mac, Linux, Windows PowerShell)  
-- Git & GitHub (branches, commits, pull requests, workflows)  
-- Core programming concepts *(to be expanded over time)*  
-
-Built in **Obsidian**, version-handled with Git.
+Built in **Obsidian** and version-controlled with **Git**.
 
 ---
 
-## ✨ What’s Inside
+## 📘 Topics
 
-- **Terminal Basics**  
-  Navigation, file management, productivity tips  
+- **Terminal / Command Line**  
+  Navigation, files, productivity (Mac, Linux, Windows)
 
-- **Git Essentials**  
-  Branches, commits, pull requests  
+- **Git & GitHub**  
+  Commits, branches, workflows, pull requests
 
-- **Cheatsheets & Callouts**  
-  Quick reference blocks for practice  
-
-- **Interactive Notes**  
-  Designed for learning step-by-step  
+- **Programming Fundamentals**  
+  _(expanding over time)_
 
 ---
 
-## 🚀 Getting Started
+## 📂 What’s Included
 
-1. Clone the repo  
-
-   ```bash
-   git clone https://github.com/your-username/dev-essentials.git
-
-
-2. Open the folder as an **Obsidian vault**
-
-3. Start exploring the notes & tutorials
+- Step-by-step tutorials  
+- Visual diagrams  
+- Cheatsheets & callouts  
+- Practical examples  
 
 ---
 
-## 🛠 Requirements
+## Screenshots (placeholders)
 
-* [Obsidian](https://obsidian.md/)
-* Git installed locally
+### Interactive Navigation
+<img width="477" height="313" alt="Screenshot 2026-01-23 at 11 13 33" src="https://github.com/user-attachments/assets/5f99a02c-5217-4f55-8ddd-197463930b68" />
+
+<img width="718" height="525" alt="Screenshot 2026-01-23 at 11 18 45" src="https://github.com/user-attachments/assets/69aec502-b60b-4c7c-9540-59d6e31bb7be" />
+
+<img width="666" height="549" alt="Screenshot 2026-01-23 at 11 15 50" src="https://github.com/user-attachments/assets/28fe6b10-b5d5-489c-963c-b6bf6522fcde" />
 
 ---
 
-## 🌱 Roadmap
-
-* [x] Expand **Terminal tutorials**
-* [x] BUT - still need more... Add **Git workflows & examples**
-* [ ] Introduce **programming fundamentals**
-* [x] Add **Common Git Errors**
-* [x] Add **Github Projects**
-* [ ] Showcase **Using Canvas Images in this README.md**
-* [ ] Add **Git Merging**
----
-
-## 📖 License
-
-MIT — free to use and adapt for your own learning.
-
-### 📚 Readme powered by A.I
-
-This readme was generated using Chat GPT - Thank you GPT :)
+Summarized by chat-GPT - thanks!
