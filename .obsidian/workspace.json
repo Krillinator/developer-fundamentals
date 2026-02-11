@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal, Git & Github/Agile/Agile - Workflow.md",
+                "file": "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agile - Workflow"
+              "title": "Agile - Planning Poker"
             }
           }
         ]
@@ -173,10 +173,14 @@
   },
   "active": "b00b9620e5f104c9",
   "lastOpenFiles": [
+    "resources/Screenshot 2026-02-11 at 16.23.27.png",
+    "resources/Screenshot 2026-02-11 at 16.23.05.png",
+    "resources/Screenshot 2026-02-11 at 16.20.39.png",
+    "resources/Screenshot 2026-02-11 at 16.09.26.png",
+    "Terminal, Git & Github/Agile/Agile - Workflow.md",
     "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
     "Terminal, Git & Github/Agile/Agile - Brainstorming.md",
     "Terminal, Git & Github/Agile/Agile - MVP.md",
-    "Terminal, Git & Github/Agile/Agile - Workflow.md",
     "index.canvas",
     "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md",
     "Terminal, Git & Github/Agile/Agile - Roles.md",
@@ -188,9 +192,6 @@
     "resources/Pasted image 20260211130005.png",
     "resources/Pasted image 20260211130002.png",
     "resources/Pasted image 20260211125942.png",
-    "resources/Pasted image 20260211125904.png",
-    "resources/Screenshot 2026-02-11 at 12.57.24.png",
-    "resources/Screenshot 2026-02-11 at 12.50.47.png",
     "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
     "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
     "Terminal, Git & Github/Agile",

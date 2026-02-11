@@ -5,7 +5,7 @@ icon: LiGithub
 
 > [!warning] Before You Begin
 > ## New Project, Team & Stories?
-> - Form the team
+> - Gather the team
 > - Assign roles (Product Owner, Scrum Master, Development Team) [[Agile - Roles]]
 > - Brainstorm ideas [[Agile - Brainstorming]]
 > - Define the MVP [[Agile - MVP]]
