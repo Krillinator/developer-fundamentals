@@ -4,7 +4,7 @@ icon: LiGithub
 # The Scrum Workflow (Simple Guide)
 
 > [!warning] Before You Begin
-> ## Before You Begin
+> ## New Project, Team & Stories?
 > - Form the team
 > - Assign roles (Product Owner, Scrum Master, Development Team) [[Agile - Roles]]
 > - Brainstorm ideas [[Agile - Brainstorming]]

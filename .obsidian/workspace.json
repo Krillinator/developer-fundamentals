@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa3f0c8736397b48",
+            "id": "b00b9620e5f104c9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "index.canvas",
-                "viewState": {
-                  "x": 1536.5444203838626,
-                  "y": 526.5255621490372,
-                  "zoom": -0.2184161408096559
-                }
+                "file": "Terminal, Git & Github/Agile/Agile - Workflow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "index"
+              "icon": "lucide-file",
+              "title": "Agile - Workflow"
             }
           }
         ]
@@ -174,28 +171,28 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "fa3f0c8736397b48",
+  "active": "b00b9620e5f104c9",
   "lastOpenFiles": [
-    "Terminal, Git & Github/Agile/Agile - Workflow.md",
-    "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md",
-    "resources/Pasted image 20260211122646.png",
-    "resources/Pasted image 20260211122620.png",
-    "resources/Pasted image 20260211122242.png",
-    "resources/Pasted image 20260211122100.png",
-    "Terminal, Git & Github/Agile/Agile - MVP.md",
-    "Terminal, Git & Github/Agile/Agile - Brainstorming.md",
-    "Terminal, Git & Github/Agile/Agile - Roles.md",
     "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
-    "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
-    "resources/Pasted image 20260211120442.png",
-    "resources/Pasted image 20260211120339.png",
-    "resources/Pasted image 20260211120310.png",
-    "resources/Pasted image 20260211120151.png",
-    "resources/Pasted image 20260211115819.png",
-    "resources/Screenshot 2026-02-11 at 11.57.27.png",
+    "Terminal, Git & Github/Agile/Agile - Brainstorming.md",
+    "Terminal, Git & Github/Agile/Agile - MVP.md",
+    "Terminal, Git & Github/Agile/Agile - Workflow.md",
     "index.canvas",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
+    "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md",
+    "Terminal, Git & Github/Agile/Agile - Roles.md",
     "Terminal, Git & Github/Git & Github - Basics/Github - Github Projects Walkthrough.md",
+    "resources/Pasted image 20260211155053.png",
+    "resources/Pasted image 20260211155012.png",
+    "resources/Screenshot 2026-02-11 at 13.22.30.png",
+    "resources/Pasted image 20260211130028.png",
+    "resources/Pasted image 20260211130005.png",
+    "resources/Pasted image 20260211130002.png",
+    "resources/Pasted image 20260211125942.png",
+    "resources/Pasted image 20260211125904.png",
+    "resources/Screenshot 2026-02-11 at 12.57.24.png",
+    "resources/Screenshot 2026-02-11 at 12.50.47.png",
+    "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
     "Terminal, Git & Github/Agile",
     "Terminal, Git & Github/Branching/Git Branch Simplified - Flow Diagram.canvas",
     "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas",

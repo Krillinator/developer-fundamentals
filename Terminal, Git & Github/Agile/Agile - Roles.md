@@ -17,39 +17,66 @@ icon: LiGithub
 **Product Owner**  
 *"Owns the backlog and prioritizes user stories*"
 ![[Pasted image 20260211113551.png|150]] 
-Decides _what_ should be built and in what order.
-- Owns and prioritizes the **backlog**
-- Writes / refines user stories
-- Decides _what_ should be built
-- Moves stories in priority order
 
+> [!hint] Product Owner
+>  Decides _what_ should be built and in what order.
+> - Owns and prioritizes the **backlog**
+> - Writes / refines user stories
+> - Decides _what_ should be built
+> - Moves stories in priority order
+
+
+---
 
 **Scrum Master**  
 *"Facilitates the process"*
 ![[Pasted image 20260211112607.png|150]]
-Removes obstacles and protects the team’s focus.
-- Runs the meetings (Sprint Planning, Daily Standup, Review, Retrospective)
-- Helps solve problems that slow the team down
-- Makes sure no new work is added during the sprint
-- Helps the team understand and follow Scrum rules
 
+> [!hint] Scrum Master
+> Removes obstacles and protects the team’s focus.
+> - Runs the meetings (Sprint Planning, Daily Standup, Review, Retrospective)
+> - Helps solve problems that slow the team down
+> - Makes sure no new work is added during the sprint
+> - Helps the team understand and follow Scrum rules
+> - Makes sure everyone is included
+
+---
 
 **Development Team**  
 *"Designs, builds, tests, and delivers the product"*
 ![[Pasted image 20260211113455.png|150]]
-Decides _how_ the work gets done.
-- Moves stories during the sprint  
-    (Todo → In Progress → Done)
-- Updates status daily *(keep story status up to date)*
-- Splits a story into smaller, concrete steps needed to finish it *(During Sprint Planning)*
-  **Example:**
-	*“As a user, I want to reset my password.”*
-	**Concrete steps could be:**
-	- Create reset endpoint
-	- Add email validation
-	- Create reset token logic
-	- Update UI form
-	- Write tests
+
+> [!hint] Development Team
+> Decides _how_ the work gets done.
+> - Moves stories during the sprint  *(Todo → In Progress → Done)*
+> - Updates status daily *(keep story status up to date)*
+> - Splits a story into smaller, concrete steps needed to finish it *(During Sprint Planning)*  
+> 
+  > **Example:**
+ > *“As a user, I want to reset my password.”*
+> - Create reset endpoint
+> - Add email validation
+> - Create reset token logic
+> - Update UI form
+> -  Write tests
+
+
+---
+
+## How to Assign the Roles
+
+Before we start building, we need clear roles so we don’t step on each other’s toes. 
+Let’s quickly decide who takes which responsibility
+- Who wants to **own** the product direction and backlog? *(Product Owner)*
+- Who feels comfortable facilitating meetings and keeping us on track making sure everyone feels included during the Agile Meetings? *(Scrum Master)*
+- The rest are the **development team**.
+
+**Important:**
+- The Product Owner decides **what** to build
+- The Scrum Master ensures **how the team works**
+- Neither role has to be a manager
+
+![[Pasted image 20260211114633.png|250]]
 
 ---
 
@@ -83,22 +110,6 @@ You don’t change roles mid-sprint unless absolutely necessary.
 
 ---
 
-## How to Assign the Roles
-
-1. Form the team
-2. Choose a **Product Owner** (owns vision and backlog)
-3. Choose a **Scrum Master** (facilitates process and removes obstacles)
-4. Start Sprint 1 with clear responsibilities
-
-**Important:**
-- The Product Owner decides **what** to build
-- The Scrum Master ensures **how the team works**
-- Neither role has to be a manager
-
-![[Pasted image 20260211114633.png|150]]
-
----
-
 **Simple rule:**
 
 > Set roles before Sprint 1.  
@@ -107,5 +118,5 @@ You don’t change roles mid-sprint unless absolutely necessary.
 
 ---
 
-## **Finished**
- Back to Overview: [[index.canvas|Developer Fundamentals]]
+## **Next Step**
+ Brainstorming [[Agile - Brainstorming]]

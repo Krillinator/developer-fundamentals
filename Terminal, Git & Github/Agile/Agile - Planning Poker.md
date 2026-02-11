@@ -34,7 +34,37 @@ Repeat until the team agrees.
 - Creates shared ownership
 
 *Planning Poker is about **understanding the work**, not predicting exact hours.*
+The **Product Owner** can now decide much easier how to distribute workload over the coming sprints and whether or not it's worth the time and effort.
+
+![[Pasted image 20260211155053.png|350]]
+
+---
+## Get Started
+
+**Product Owner** beings by navigating to:
+https://www.scrumpoker-online.org/en/room/36673323/scrum-poker
+
+The invite is then shared with all the members on the team.
+
+>[!hint] The Card Set
+>
+> | Card | Meaning |
+> |------|---------|
+> |  ?   | Not enough information or confusing|
+> |  ☕  | Break |
+> |  0   | No effort (already done / trivial change) |
+> | 0.5  | Extremely small change |
+> |  1   | Very small task |
+> | 2–3  | Small task |
+> | 5–8  | Medium complexity |
+> | 13   | Large |
+> | 20   | Very large |
+> | 40   | Extremely large |
+> | 100  | Massive |
+>
+> Story points represent **relative effort, complexity, and uncertainty**.. not time.
 
 ---
 ## **Finished**
- Back to Overview: [[index.canvas|Developer Fundamentals]]
+ Back to [[Agile - Workflow]]
+ 

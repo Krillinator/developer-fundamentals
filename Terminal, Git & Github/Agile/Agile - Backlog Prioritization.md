@@ -47,3 +47,8 @@ If the answer is “yes” → it goes higher in the backlog.
 
 > MVP defines what is essential.  
 > Priority defines what comes first in the sprint.
+
+---
+
+## **Finished**
+ Back to [[Agile - Workflow]]

@@ -16,6 +16,9 @@ _“The simplest version that works and can be tested.”_
 When the **Product Owner** prioritizes stories, they ask:
 "*What do we need to build first to have a usable product?*"
 
+> What should our first presentation be done in? UI, Postman, Swagger..? 
+> What about: database tech, and libraries?
+
 **Not**:
 - What would be nice?
 - What would be cool?
@@ -48,6 +51,10 @@ MVP might be:
 
 Everything else comes later.
 
+**An example from the previous brainstorm** 
+might be to then mark the relevant MVP related work
+![[Screenshot 2026-02-11 at 13.22.30.png|150]]
+
 ![[Pasted image 20260211120442.png|150]]
 
 
@@ -55,11 +62,13 @@ Everything else comes later.
 
 ## Simple Rule
 
+> *What would you want to show the client?*
 > Build what is necessary to make it usable. What is the smallest possible usable version? 
 > Improve it after feedback.
 
 That’s why MVP and backlog prioritization go hand in hand.
 
 ---
-## **Finished**
- Back to Overview: [[index.canvas|Developer Fundamentals]]
+## **Next Step**
+ Backlog Prioritization [[Agile - Backlog Prioritization]] 
+ 
