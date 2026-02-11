@@ -1,5 +1,5 @@
 ## 🌐 Developer Fundamentals
-**Live site:** [https://krillinator.github.io/developer-fundamentals.html](https://krillinator.github.io/developer-fundamentals/developer-fundamentals.html)
+**Live site:** [https://krillinator.github.io/developer-fundamentals](https://krillinator.github.io/developer-fundamentals/)
 
 Practical notes and tutorials covering the **core fundamentals every developer needs**.  
 Built for beginners. Focused on real workflows.
