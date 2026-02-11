@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "00e72fafa1f4ea8d",
+        "id": "4072c1eafb534da0",
         "type": "tabs",
         "children": [
           {
-            "id": "4d256bfe0a85eb64",
+            "id": "fa3f0c8736397b48",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas",
+                "file": "index.canvas",
                 "viewState": {
-                  "x": -20,
-                  "y": 250,
-                  "zoom": -0.7055526415347447
+                  "x": 1536.5444203838626,
+                  "y": 526.5255621490372,
+                  "zoom": -0.2184161408096559
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "User & Technical Stories Example - Flow Diagram"
+              "title": "index"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5
   },
   "right": {
     "id": "e4d15ba49c7b2cea",
@@ -174,54 +174,60 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "4d256bfe0a85eb64",
+  "active": "fa3f0c8736397b48",
   "lastOpenFiles": [
-    "Terminal, Git & Github/Terminal - Basics/Terminal - Flow Diagram.canvas",
-    "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Password Token.md",
-    "Terminal, Git & Github/Terminal - Basics/Terminal - Get Started.md",
-    "index.canvas",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Removing Files from Git.md",
-    "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas",
+    "Terminal, Git & Github/Agile/Agile - Workflow.md",
+    "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md",
+    "resources/Pasted image 20260211122646.png",
+    "resources/Pasted image 20260211122620.png",
+    "resources/Pasted image 20260211122242.png",
+    "resources/Pasted image 20260211122100.png",
+    "Terminal, Git & Github/Agile/Agile - MVP.md",
+    "Terminal, Git & Github/Agile/Agile - Brainstorming.md",
+    "Terminal, Git & Github/Agile/Agile - Roles.md",
+    "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
     "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
+    "resources/Pasted image 20260211120442.png",
+    "resources/Pasted image 20260211120339.png",
+    "resources/Pasted image 20260211120310.png",
+    "resources/Pasted image 20260211120151.png",
+    "resources/Pasted image 20260211115819.png",
+    "resources/Screenshot 2026-02-11 at 11.57.27.png",
+    "index.canvas",
     "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Github Projects Walkthrough.md",
+    "Terminal, Git & Github/Agile",
+    "Terminal, Git & Github/Branching/Git Branch Simplified - Flow Diagram.canvas",
+    "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas",
+    "Terminal, Git & Github/Terminal - Basics/Terminal - Get Started.md",
+    "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md",
+    "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md",
+    "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas",
+    "Terminal, Git & Github/Terminal - Basics/Terminal - Flow Diagram.canvas",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Password Token.md",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Removing Files from Git.md",
     "Terminal, Git & Github/Git & Github - Basics/Git & Github - Common Issues.md",
     "Terminal, Git & Github/Terminal - Basics/Terminal & Files - Basics.md",
-    "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md",
     "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
     "Terminal, Git & Github/Branching/Branches - Basics.md",
     "README.md",
     "Terminal, Git & Github/Git & Github - Basics/Git - Flow Diagram TBD.canvas",
     "Terminal Fundamentals.md",
     "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
-    "resources/Terminal & Files - icon.png",
-    "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas",
-    "Terminal, Git & Github/Branching/Git Branch Simplified - Flow Diagram.canvas",
-    "resources/Screenshot 2026-01-23 at 11.07.02.png",
-    "resources/Screenshot 2026-01-23 at 11.04.34.png",
-    "resources/Screenshot 2026-01-23 at 11.03.04.png",
-    "resources/User & Technical Stories - Technical Story.png",
-    "resources/User & Technical Stories - User Story.png",
     "Terminal, Git & Github/User & Technical Stories/SUDO - Superuser Do.md",
-    "resources/Terminal - Git Branch - Flow Diagram simplified.png.png",
-    "resources/Github Account - Circle.png",
     "Terminal, Git & Github/User & Technical Stories",
     "Terminal, Git & Github/User & Technical Stories",
     "TODO.md",
-    "resources/Git & Github - Separate Timelines.png",
-    "resources/Git & Github - First Project Workflow.png",
     "Terminal, Git & Github/Github/Terminal - Get Started.md",
     "Terminal, Git & Github/Github/Terminal - Flow Diagram.canvas",
     "Terminal, Git & Github/Github/SUDO - Superuser Do.md",
     "Terminal, Git & Github/Github",
     "!SUDO - Superuser Do.md",
-    "Terminal, Git & Github/Git & Github - Basics/SUDO - Superuser Do.md",
     "Terminal, Git & Github/Git & Github - Basics",
     "Terminal, Git & Github/Terminal - Basics",
     "Terminal, Git & Github/Branching",
     "Terminal, Git & Github",
     "resources",
-    "Welcome.md",
     "Terminal, Git & Github/Pull Request"
   ]
 }

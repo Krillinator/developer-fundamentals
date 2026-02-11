@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiTerminal",
-      "LiImage",
-      "LiStickyNote",
-      "LiFolder",
-      "LiGithub"
+      "LiListOrdered",
+      "LiBrain",
+      "LiBox",
+      "LiGamepad",
+      "LiWorkflow"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,13 @@
   "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas": "LiImage",
   "Terminal, Git & Github/Terminal - Basics/Terminal & Files - Basics.md": "LiTerminal",
   "Terminal, Git & Github/Branching/Branches - Basics.md": "LiGitBranch",
-  "Terminal, Git & Github/Git & Github - Basics/Github - Removing Files from Git.md": "LiGithub"
+  "Terminal, Git & Github/Git & Github - Basics/Github - Removing Files from Git.md": "LiGithub",
+  "Terminal, Git & Github/Git & Github - Basics/Github - Github Projects Walkthrough.md": "LiGithub",
+  "Terminal, Git & Github/Agile": "LiFolder",
+  "Terminal, Git & Github/Agile/Agile - Roles.md": "LiUserCheck",
+  "Terminal, Git & Github/Agile/Agile - Workflow.md": "LiWorkflow",
+  "Terminal, Git & Github/Agile/Agile - Planning Poker.md": "LiGamepad",
+  "Terminal, Git & Github/Agile/Agile - MVP.md": "LiBox",
+  "Terminal, Git & Github/Agile/Agile - Brainstorming.md": "LiBrain",
+  "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md": "LiListOrdered"
 }
