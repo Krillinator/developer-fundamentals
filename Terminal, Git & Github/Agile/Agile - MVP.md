@@ -1,5 +1,5 @@
 ---
-icon: LiGithub
+icon: LiBox
 ---
 ## What is MVP?
 

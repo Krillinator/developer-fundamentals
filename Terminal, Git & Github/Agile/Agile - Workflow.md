@@ -1,5 +1,5 @@
 ---
-icon: LiGithub
+icon: LiWorkflow
 ---
 # The Scrum Workflow (Simple Guide)
 

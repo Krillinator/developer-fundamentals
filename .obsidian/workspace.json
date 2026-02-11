@@ -11,14 +11,17 @@
             "id": "b00b9620e5f104c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
-                "mode": "source",
-                "source": false
+                "file": "index.canvas",
+                "viewState": {
+                  "x": 500,
+                  "y": 520,
+                  "zoom": -1.9291303341514803
+                }
               },
-              "icon": "lucide-file",
-              "title": "Agile - Planning Poker"
+              "icon": "lucide-layout-dashboard",
+              "title": "index"
             }
           }
         ]
@@ -173,25 +176,26 @@
   },
   "active": "b00b9620e5f104c9",
   "lastOpenFiles": [
+    "README.md",
+    "Terminal Fundamentals.md",
+    "index.canvas",
+    "Terminal, Git & Github/Git & Github - Basics/Github - Github Projects Walkthrough.md",
+    "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md",
+    "Terminal, Git & Github/Agile/Agile - MVP.md",
+    "Terminal, Git & Github/Agile/Agile - Brainstorming.md",
+    "Terminal, Git & Github/Agile/Agile - Roles.md",
+    "Terminal, Git & Github/Agile/Agile - Workflow.md",
+    "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
     "resources/Screenshot 2026-02-11 at 16.23.27.png",
     "resources/Screenshot 2026-02-11 at 16.23.05.png",
     "resources/Screenshot 2026-02-11 at 16.20.39.png",
     "resources/Screenshot 2026-02-11 at 16.09.26.png",
-    "Terminal, Git & Github/Agile/Agile - Workflow.md",
-    "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
-    "Terminal, Git & Github/Agile/Agile - Brainstorming.md",
-    "Terminal, Git & Github/Agile/Agile - MVP.md",
-    "index.canvas",
-    "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md",
-    "Terminal, Git & Github/Agile/Agile - Roles.md",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Github Projects Walkthrough.md",
     "resources/Pasted image 20260211155053.png",
     "resources/Pasted image 20260211155012.png",
     "resources/Screenshot 2026-02-11 at 13.22.30.png",
     "resources/Pasted image 20260211130028.png",
     "resources/Pasted image 20260211130005.png",
     "resources/Pasted image 20260211130002.png",
-    "resources/Pasted image 20260211125942.png",
     "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
     "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
     "Terminal, Git & Github/Agile",
@@ -208,9 +212,7 @@
     "Terminal, Git & Github/Terminal - Basics/Terminal & Files - Basics.md",
     "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
     "Terminal, Git & Github/Branching/Branches - Basics.md",
-    "README.md",
     "Terminal, Git & Github/Git & Github - Basics/Git - Flow Diagram TBD.canvas",
-    "Terminal Fundamentals.md",
     "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
     "Terminal, Git & Github/User & Technical Stories/SUDO - Superuser Do.md",
     "Terminal, Git & Github/User & Technical Stories",

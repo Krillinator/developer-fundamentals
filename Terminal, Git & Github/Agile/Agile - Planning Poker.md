@@ -1,5 +1,5 @@
 ---
-icon: LiGithub
+icon: LiGamepad
 ---
 ## Planning Poker
 

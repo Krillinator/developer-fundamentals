@@ -1,5 +1,5 @@
 ---
-icon: LiGithub
+icon: LiListOrdered
 ---
 ## What is Priority?
 

@@ -1,5 +1,5 @@
 ---
-icon: LiGithub
+icon: LiUserCheck
 ---
 ### What are Agile Roles?
 

@@ -1,5 +1,5 @@
 ---
-icon: LiGithub
+icon: LiBrain
 ---
 ### Brainstorming Guide
 
