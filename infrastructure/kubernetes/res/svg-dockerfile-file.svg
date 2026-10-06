@@ -1,0 +1,46 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- File body -->
+  <path d="M92 40
+       H310
+       L402 132
+       V420
+       Q402 456 366 456
+       H92
+       Q56 456 56 420
+       V76
+       Q56 40 92 40Z" fill="#D9E0E8" stroke="#2496ED" stroke-width="24" stroke-linejoin="round"></path>
+
+  <!-- Fold -->
+  <path d="M310 40
+       V112
+       Q310 132 330 132
+       H402" fill="none" stroke="#2496ED" stroke-width="24" stroke-linejoin="round"></path>
+
+  <!-- Docker-style containers -->
+  <g fill="#2496ED">
+    <rect x="151" y="194" width="30" height="27" rx="3"></rect>
+    <rect x="187" y="194" width="30" height="27" rx="3"></rect>
+    <rect x="223" y="194" width="30" height="27" rx="3"></rect>
+
+    <rect x="187" y="161" width="30" height="27" rx="3"></rect>
+    <rect x="223" y="161" width="30" height="27" rx="3"></rect>
+
+    <rect x="223" y="128" width="30" height="27" rx="3"></rect>
+  </g>
+
+  <!-- Simplified whale/body -->
+  <path d="M133 229
+       H277
+       C290 229 300 225 309 216
+       C315 229 313 242 305 252
+       C288 274 262 282 224 282
+       H183
+       C157 282 139 264 133 229Z" fill="#2496ED"></path>
+
+  <!-- Code lines -->
+  <rect x="118" y="325" width="110" height="20" rx="10" fill="#2496ED"></rect>
+  <rect x="118" y="368" width="178" height="20" rx="10" fill="#2496ED"></rect>
+  <rect x="118" y="411" width="92" height="20" rx="10" fill="#2496ED"></rect>
+
+</svg>

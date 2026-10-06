@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="0 0 64 64">
+  <path
+    d="M14 5
+       H40
+       L52 17
+       V55
+       C52 58 50 60 47 60
+       H14
+       C11 60 9 58 9 55
+       V10
+       C9 7 11 5 14 5
+       Z"
+    fill="#102A47"
+    stroke="#60A5FA"
+    stroke-width="3"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M40 5
+       V14
+       C40 16 42 17 44 17
+       H52"
+    fill="none"
+    stroke="#60A5FA"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <text
+    x="16"
+    y="25"
+    fill="#60A5FA"
+    font-family="monospace"
+    font-size="7"
+    font-weight="bold">
+    YAML
+  </text>
+  <path d="M17 34 H28" stroke="#60A5FA" stroke-width="3" stroke-linecap="round"/>
+  <path d="M17 43 H39" stroke="#60A5FA" stroke-width="3" stroke-linecap="round"/>
+  <path d="M17 52 H26" stroke="#60A5FA" stroke-width="3" stroke-linecap="round"/>
+</svg>
