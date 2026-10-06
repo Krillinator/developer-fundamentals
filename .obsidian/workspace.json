@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4072c1eafb534da0",
+        "id": "9b187bc27348e291",
         "type": "tabs",
         "children": [
           {
-            "id": "b00b9620e5f104c9",
+            "id": "9c2d84670b48802e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "index.canvas",
-                "viewState": {
-                  "x": 500,
-                  "y": 520,
-                  "zoom": -1.9291303341514803
-                }
+                "file": "Infrastructure/Kubernetes/Kubernetes - Start Here.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "index"
+              "icon": "lucide-file",
+              "title": "Kubernetes - Start Here"
             }
           }
         ]
@@ -44,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 480.609375
   },
   "right": {
     "id": "e4d15ba49c7b2cea",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developer Fundamentals.canvas",
+                "file": "Infrastructure/Kubernetes/Kubernetes - Start Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Developer Fundamentals"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,60 +173,61 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "b00b9620e5f104c9",
+  "active": "9c2d84670b48802e",
   "lastOpenFiles": [
-    "README.md",
-    "Terminal Fundamentals.md",
+    "Infrastructure/Kubernetes/module-01/Kubernetes - Understanding the Benefits of Containers (theory).md",
+    "Infrastructure/Docker/module-01/containers/Docker - Container Ports.md",
+    "Infrastructure/Docker/module-01/containers/Docker - Understanding Containers.md",
+    "Infrastructure/Docker/module-01/containers/Docker - Hands-On Container Practice 02.md",
+    "Infrastructure/Docker/module-01/containers/Docker - Hands-On Container Practice 01.md",
+    "Infrastructure/Docker/module-01/containers/Docker - Hands-On Container Practice 03.md",
+    "Infrastructure/Docker/module-01/Docker - Docker Hub.md",
+    "Infrastructure/Docker/module-01/Docker - Basic Dockerfile Instructions.md",
+    "Infrastructure/Docker/module-01/Docker - Dockerfile.md",
+    "Infrastructure/Docker/Docker - Start Here.md",
+    "Infrastructure/Docker/module-02/Docker - Knowledge Check 02.md",
+    "Infrastructure/Docker/module-03/Docker - Knowledge Check 03.md",
+    "Infrastructure/Kubernetes/module-01/Kubernetes - Knowledge Check 01.md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Module 02.md",
+    "Infrastructure/Docker/module-03/Docker - Scaling a Swarm Service.md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Kubernetes Components (theory).md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Installation.md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Hands-On Cluster Exploration Practice 03.md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Hands-On Deployment & Service Practice 04.md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Exploring Our Kubernetes Cluster.md",
+    "Infrastructure/Kubernetes/Kubernetes - Start Here.md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Knowledge Check 02.md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Imperative vs Declarative (theory).md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Kubernetes Objects (theory).md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Kubernetes Workloads (theory).md",
+    "Infrastructure/Kubernetes/module-02/Kubernetes - Hands-On kubectl Practice 02.md",
     "index.canvas",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Github Projects Walkthrough.md",
-    "Terminal, Git & Github/Agile/Agile - Backlog Prioritization.md",
-    "Terminal, Git & Github/Agile/Agile - MVP.md",
-    "Terminal, Git & Github/Agile/Agile - Brainstorming.md",
-    "Terminal, Git & Github/Agile/Agile - Roles.md",
-    "Terminal, Git & Github/Agile/Agile - Workflow.md",
-    "Terminal, Git & Github/Agile/Agile - Planning Poker.md",
-    "resources/Screenshot 2026-02-11 at 16.23.27.png",
-    "resources/Screenshot 2026-02-11 at 16.23.05.png",
-    "resources/Screenshot 2026-02-11 at 16.20.39.png",
-    "resources/Screenshot 2026-02-11 at 16.09.26.png",
-    "resources/Pasted image 20260211155053.png",
-    "resources/Pasted image 20260211155012.png",
-    "resources/Screenshot 2026-02-11 at 13.22.30.png",
-    "resources/Pasted image 20260211130028.png",
-    "resources/Pasted image 20260211130005.png",
-    "resources/Pasted image 20260211130002.png",
-    "Terminal, Git & Github/User & Technical Stories/User Stories vs Technical User Stories.md",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Account Creation.md",
-    "Terminal, Git & Github/Agile",
-    "Terminal, Git & Github/Branching/Git Branch Simplified - Flow Diagram.canvas",
+    "Infrastructure/Kubernetes/res/undraw_selected-options_2x1i.svg",
+    "Infrastructure/Kubernetes/res/kubectl-get-pods-after-two-deployments-result-terminal.png",
+    "Infrastructure/Kubernetes/res/kubernetes-service-whole-relationship-diagram.png",
+    "Infrastructure/Kubernetes/res/kubernetes-port-forwarding-5000-app-one-results-terminal.png",
+    "Infrastructure/Kubernetes/res/kubernetes-service-yaml-client-pods-relationship-diagram.png",
+    "Infrastructure/Kubernetes/res/kubernetes-deploy-yaml-replicaset-pods-relationship-diagram.png",
+    "Infrastructure/Kubernetes/res/kubernetes-practice-02-dockerfile-directory-3-hierarchy.png",
+    "Infrastructure/Kubernetes/res/kubernetes-service-diagram.png",
+    "Infrastructure/Kubernetes/res/kubernetes-app-one-folder-deployment-file-hierarchy.png",
+    "Infrastructure/Kubernetes/res/kubernetes-docker-image-hello-from-app-one-website-result.png",
+    "Infrastructure/Kubernetes/module-02",
+    "Infrastructure/Kubernetes/res/svg/resources/unlabeled",
+    "Infrastructure/Kubernetes/res/svg/resources/labeled",
+    "Infrastructure/Kubernetes/res/svg/resources",
+    "Infrastructure/Kubernetes/res/svg/infrastructure_components/unlabeled",
+    "Infrastructure/Kubernetes/res/svg/infrastructure_components/labeled",
+    "Infrastructure/Kubernetes/res/svg/infrastructure_components",
+    "Infrastructure/Kubernetes/res/svg/control_plane_components/labeled",
+    "Infrastructure/Kubernetes/res/svg/control_plane_components",
+    "Infrastructure/Kubernetes/res/svg",
+    "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
+    "Terminal, Git & Github/Git & Github - Basics/Git - Flow Diagram TBD.canvas",
     "Terminal, Git & Github/Branching/Git Branch - Flow Diagram.canvas",
-    "Terminal, Git & Github/Terminal - Basics/Terminal - Get Started.md",
-    "Terminal, Git & Github/Terminal - Basics/SUDO - Superuser Do.md",
-    "Terminal, Git & Github/Git & Github - Basics/Git & Github - First Project.md",
+    "Terminal, Git & Github/Branching/Git Branch Simplified - Flow Diagram.canvas",
     "Terminal, Git & Github/User & Technical Stories/User & Technical Stories Example - Flow Diagram.canvas",
     "Terminal, Git & Github/Terminal - Basics/Terminal - Flow Diagram.canvas",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Password Token.md",
-    "Terminal, Git & Github/Git & Github - Basics/Github - Removing Files from Git.md",
-    "Terminal, Git & Github/Git & Github - Basics/Git & Github - Common Issues.md",
-    "Terminal, Git & Github/Terminal - Basics/Terminal & Files - Basics.md",
-    "Terminal, Git & Github/Pull Request/Cheatsheet - Pull Requests.md",
-    "Terminal, Git & Github/Branching/Branches - Basics.md",
-    "Terminal, Git & Github/Git & Github - Basics/Git - Flow Diagram TBD.canvas",
-    "Terminal, Git & Github/Pull Request/Pull Request - Flow Diagram.canvas",
-    "Terminal, Git & Github/User & Technical Stories/SUDO - Superuser Do.md",
-    "Terminal, Git & Github/User & Technical Stories",
-    "Terminal, Git & Github/User & Technical Stories",
-    "TODO.md",
-    "Terminal, Git & Github/Github/Terminal - Get Started.md",
-    "Terminal, Git & Github/Github/Terminal - Flow Diagram.canvas",
-    "Terminal, Git & Github/Github/SUDO - Superuser Do.md",
-    "Terminal, Git & Github/Github",
-    "!SUDO - Superuser Do.md",
-    "Terminal, Git & Github/Git & Github - Basics",
-    "Terminal, Git & Github/Terminal - Basics",
-    "Terminal, Git & Github/Branching",
-    "Terminal, Git & Github",
-    "resources",
-    "Terminal, Git & Github/Pull Request"
+    "Terminal, Git & Github/Github/Terminal - Flow Diagram.canvas"
   ]
 }

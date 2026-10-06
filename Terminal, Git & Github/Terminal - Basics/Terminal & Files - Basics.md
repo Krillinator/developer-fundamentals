@@ -164,3 +164,4 @@ icon: LiTerminal
 
 ## **Finished**
  Back to Overview: [[index.canvas|Developer Fundamentals]]
+ Or if you want to learn about Git & GitHub: [[Github - Account Creation]]

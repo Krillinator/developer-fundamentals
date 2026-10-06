@@ -224,3 +224,4 @@ The **Terminal** is your direct connection to the computer:
 
 ## **Finished**
  Back to Overview: [[index.canvas|Developer Fundamentals]]
+ Or continue on to [[Terminal & Files - Basics]]
